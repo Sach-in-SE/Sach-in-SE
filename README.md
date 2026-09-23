@@ -5,9 +5,7 @@
 
 
 
----
-
-## 🚀 About Me
+🚀 About Me
 
 - 🎓 B.Tech in Electronics and Computer Science @ Samrat Vikramaditya University, Ujjain
 - 🌍 Leading the **AWS Student Builder Group** at my university
@@ -21,110 +19,66 @@
 
 ## 🛠️ Tech Stack
 
-### **Languages & Frameworks**
-[
+### Languages & Frameworks
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
 
-![java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+### Cloud & DevOps
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
+</p>
 
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg) [
-
-![spring](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg)
-
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg) [
-
-![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) [
-
-![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)
-
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg) [
-
-![javascript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-
-### **Cloud & DevOps**
-[
-
-![aws](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) [
-
-![linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg) [
-
-![git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg)
-
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg) [
-
-![github](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg)
-
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg)
-
-### **Build Tools**
-[
-
-![maven](https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg)
-
-](https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg)
+### Build Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="maven" width="40" height="40"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-[
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sach-in-SE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-](https://github.com/Sach-in-SE)
-[
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sach-in-SE&layout=compact&theme=tokyonight&hide_border=true)
-
-](https://github.com/Sach-in-SE)
-
-[
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sach-in-SE&theme=tokyonight&hide_border=true)
-
-](https://github.com/Sach-in-SE)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sach-in-SE&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sach-in-SE&layout=compact&theme=radical" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sach-in-SE&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-[
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Sach-in-SE&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
-
-](https://github.com/Sach-in-SE)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sach-in-SE&theme=onedark" alt="GitHub Trophies" />
+</p>
 
 ---
 
 ## 📈 Activity Graph
 
-[
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Sach-in-SE&theme=tokyo-night&hide_border=true)
-
-](https://github.com/Sach-in-SE)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sach-in-SE&theme=react-dark" alt="Activity Graph" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-[
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)
-
-](https://www.linkedin.com/in/sach-in-dev)
+<p align="left">
+  <a href="https://www.linkedin.com/in/sach-in-dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+</p>
 
 ---
 
 ### 💡 "Learning today, leading tomorrow"
-
-
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sach-in-SE&color=blue&style=flat)
